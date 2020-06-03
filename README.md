@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="./Github/home-background.svg" width="100%">
+  <img alt="Ecoleta" src="./Github/home-background.svg" width="50%">
 </p>
 
 ## :rocket: Tecnologias
