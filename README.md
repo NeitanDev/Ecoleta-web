@@ -1,10 +1,10 @@
 <h1 align="center" style="font-size: 100px;">
-    <img alt="Ecoleta" title="#delicinha" src="./Github/home-background.svg" width="200px" />
+    <img alt="Ecoleta" title="#delicinha" src="./Github/logo.svg" width="200px" />
 </h1>
 
-<h4 align="center">
+<h1 align="center">
   :recycle: Ecoleta 
-</h4>
+</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="./Github/logo.svg" width="100%">
+  <img alt="Ecoleta" src="./Github/home-background.svg" width="100%">
 </p>
 
 ## :rocket: Tecnologias
