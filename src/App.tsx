@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
 
+import Routes from './pages/routes';
+
 function App() {
   return (
-    <h1>Hello Word</h1>
+    <Routes />
   );
 }
 
